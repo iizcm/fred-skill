@@ -1,43 +1,27 @@
 ---
 name: fred
-description: "AI agent skill: fred"
 version: 0.1.0
 author: Hermes Agent
 license: MIT
-platforms: [linux, macos, windows]
-tags: [general]
 ---
 
-# Fred — Skill
+# fred — Placeholder Skill
 
-AI agent skill: fred
+**Status:** Placeholder - In Development
 
-## Install
+This skill is currently a placeholder and will be implemented soon. The skill template provides a starting point for development.
 
-```bash
-cp -r <skill-name> ~/.hermes/skills/<skill-path>/
-```
+## Overview
 
-Or clone this repository:
-
-```bash
-git clone https://github.com/iizcm/fred-skill.git ~/.hermes/skills/<skill-path>/
-```
+Placeholder skill that demonstrates the basic SKILL.md structure.
 
 ## Usage
 
-Invoke your AI agent with a clear instruction matching this skill's purpose. The agent will route tasks to this skill when the instruction matches its description or trigger keywords.
+This skill is currently being developed and is not yet functional.
 
-Refer to `README.md` in this repository for:
-- Detailed step-by-step installation guide
-- Bilingual documentation (English + Indonesian)
-- Troubleshooting table
-- Security best practices
-- Customization tips
+## TODO
 
-## Safety rules
-
-- Never commit private keys, seed phrases, API tokens, or personal data to version control
-- Use placeholders (`<YOUR_...>`) in all examples and code snippets
-- Validate all outputs before acting on them
-- Keep real credentials in your runtime's secure credential store only
+- [ ] Implement skill functionality
+- [ ] Add comprehensive documentation
+- [ ] Test implementation
+- [ ] Add validation and error handling
